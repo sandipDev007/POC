@@ -1,0 +1,133 @@
+{
+  "homeResponse": 
+    {
+    "name": "User",
+    "savingBalance": "19,080.93",
+    "currency": "USD",
+    "cardData": [
+      {
+        "id": 0,
+        "accType": "Saving Account",
+        "accNumber": "3674667688781324",
+        "date": "09/21",
+        "accName": "User",
+        "cardImg": "http://192.168.1.3:8081/src/images/icons/Card_02.png",
+        "balance": "48,780.00",
+        "currency": "USD"
+      },
+      {
+        "id": 1,
+        "accType": "Credit Account",
+        "accNumber": "3675668989781354",
+        "date": "09/21",
+        "accName": "User",
+        "cardImg": "http://192.168.1.3:8081/src/images/icons/Card_03.png",
+        "balance": "10,000.78",
+        "currency": "USD"
+      },
+      {
+        "id": 2,
+        "accType": "Current Account",
+        "accNumber": "3675668989781354",
+        "date": "09/21",
+        "accName": "User",
+        "cardImg": "http://192.168.1.3:8081/src/images/icons/Card_01.png",
+        "balance": "67,000.78",
+        "currency": "USD"
+      }
+    ],
+    "jompayData": {
+      "jompayFromAccount": [
+        {
+          "label": "3762 2342 0349 0222",
+          "value": "45,000.00"
+        },
+        {
+          "label": "3762 2342 0349 0333",
+          "value": "47,000.00"},
+        { 
+          "label": "3762 2342 0349 0444",
+          "value": "49,000.00"
+        }
+      ],
+      "jompayRecentTransactions": [
+        {
+          "key": "j1",
+          "image": "http://192.168.1.3:8081/src/images/Jenny.png"
+        },
+        {
+          "key": "j2",
+          "image": "http://192.168.1.3:8081/src/images/John.png"
+        },
+        {
+          "key": "j3",
+          "image": "http://192.168.1.3:8081/src/images/Pablo.png"
+        },
+        {
+          "key": "j4",
+          "image": "http://192.168.1.3:8081/src/images/Aarif.png"
+        }
+      ]
+    },
+    "upcomingBills" : [
+      {
+        "id": "0",
+        "accType": "Saving Account",
+        "accNumber": "3674667688781324",
+        "cardImg": "http://192.168.1.3:8081/src/images/astro.png",
+        "currency": "USD",
+        "balance": "35.00",
+        "date": "3 June 2021"
+      },
+      {
+        "id": "1",
+        "accType": "Credit Account",
+        "accNumber": "3675668989781354",
+        "cardImg": "http://192.168.1.3:8081/src/images/Tenaga_Nasional.png",
+        "currency": "USD",
+        "balance": "45.00",
+        "date": "5 June 2021"
+      }
+    ],
+    "fixedDeposit":[
+      {
+        "id": "f0",
+        "accType": "Saving Account",
+        "accNumber": "2345 534 345",
+        "currency": "USD",
+        "interest": "Interest",
+        "interestPerc": "8%",
+        "balance": "9,560.93",
+        "valueDate": "3 Aug 2020",
+        "maturityDate": "3 Aug 2023",
+        "date": "3 June 2021"
+      },
+      {
+        "id": "f1",
+        "accType": "Credit Account",
+        "accNumber": "2345 534 532",
+        "currency": "USD",
+        "interest": "Interest",
+        "interestPerc": "8%",
+        "balance": "10,560.93",
+        "valueDate": "3 Aug 2020",
+        "maturityDate": "3 Aug 2023",
+        "date": "5 June 2021"
+      }
+    ],
+    "whatsnewBanner":[
+      {
+        "key": "w1",
+        "image": "http://192.168.1.3:8081/src/images/Banner1.png"
+      },
+      {
+        "key": "w2",
+        "image": "http://192.168.1.3:8081/src/images/Banner2.png"
+      },
+      {
+        "key": "w3",
+        "image": "http://192.168.1.3:8081/src/images/Banner3.png"
+      }
+    ]
+  }
+}

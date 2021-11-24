@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628547159249",
+    "project_id": "reactnativeboilerplate-612bb",
+    "storage_bucket": "reactnativeboilerplate-612bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628547159249:android:857328692e14b4024db1f0",
+        "android_client_info": {
+          "package_name": "com.reactnativeboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628547159249-f4uu2d9qv0h46m8kc3gd8lsv389ap4dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsueLUcMHiPjKiMqMp2f5yxATfzWfE6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628547159249-f4uu2d9qv0h46m8kc3gd8lsv389ap4dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+{
+    "authResponse": 
+     [
+        {
+            "userId": "user",
+            "password": "password",
+            "userToken": "HelloooooUser1"
+        },
+        {
+            "userId": "user1",
+            "password": "password",
+            "userToken": "HelloooooUser1"
+        },
+        {
+            "userId": "user2",
+            "password": "password",
+            "userToken": "HelloooooUser2"
+        },
+        {
+            "userId": "user3",
+            "password": "password",
+            "userToken": "HelloooooUser3"
+        }
+      ]
+  }
+  
